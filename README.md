@@ -20,7 +20,6 @@ git clone https://github.com/SVUIT/mmtt.git
 ```console
 git branch <branch-name>
 ```
-**Lưu ý:** Format tên branch `TenHo`
 
 3. Chuyển sang branch vừa tạo và làm việc trên branch đấy
 
