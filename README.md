@@ -12,7 +12,7 @@
 1. Clone repository
 
 ```console
-git clone https://github.com/SVUIT/mmtt.git
+git clone https://github.com/dinhkarate/PJ-webshop.git
 ```
 
 2. Tạo branch mới
